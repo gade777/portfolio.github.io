@@ -1,9 +1,7 @@
-@import "./common.css" ;
-
-@import '/css/services.css'
-@import '/css/about_me.css'
-@import '/css/hero.css' 
-
+ @import "./common.css";
+ @import "services.css";
+ @import "about_me.css";
+ @import "hero.css";
 /* hero part starts */
 
 
